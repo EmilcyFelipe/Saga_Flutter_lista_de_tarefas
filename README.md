@@ -1,16 +1,10 @@
 # lista_de_tarefas
 
-A new Flutter project.
+## Agrupamento
+    4º projeto da Saga Flutter
 
-## Getting Started
+## Mais informações:
+    Trata-se de uma lista de tarefas que o usuário é capaz de inseri-las, marcar como concluídas, retirá-las da lista(com opção de desfazer) e ordená-las. Além de armazenar dados no dispositivo para não perde-los ao atualizar ou fechar o aplicativo
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Status do projeto:
+    Concluído 🚀🚁
